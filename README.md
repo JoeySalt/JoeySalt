@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeySalt
 - 👀 I’m interested in playing allot of videogames
-- 🌱 I’m currently learning C#, PHP and Python
+- 🌱 I’m currently learning C#, PHP and the framework Laravel
 - 📫 How to reach me Discord: joeysalt
 - ⚡ Fun fact: i am the best gamer on this planet pls hire me in your e sports team pls pls pls
 
