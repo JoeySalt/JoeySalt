@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A junior software developer from the netherlands</h3>
 
-- 🌱 I’m currently learning **PHP, Laravel and NodeJS**
+- 🌱 I’m currently learning **PHP, Laravel and learning JavaScript and NodeJS**
 
 - 📫 How to reach me on discord: JoeySalt
 
