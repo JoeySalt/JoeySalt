@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel and NodeJS**
 
-- 📫 How to reach me **joeyheister@gmail.com**
+- 📫 How to reach me on discord: JoeySalt
 
 - ⚡ Fun fact **Im chill**
 
