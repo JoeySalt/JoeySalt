@@ -37,7 +37,7 @@ Right now, I’m leveling up my skills in **Laravel**, **Python**, and slowly ge
 ## 🎧 When I’m Not Coding
 
 I’m probably:  
-- Replaying *Twilight Princess* for the 10th time  
+- Replaying *Any Zelda game* for the 100th time  
 - Watching *Anime* or *Cartoons*
 - Listening to **Kanye West**, **JPEGMAFIA** or **Jazz/Zelda** soundtracks if i got to focus 😉
 - Overthinking life like it’s a side quest  
