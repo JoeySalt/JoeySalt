@@ -1,15 +1,67 @@
-<h1 align="center">Hi 👋, I'm Joey</h1>
-<h3 align="center">A junior software developer from the netherlands</h3>
+# 👑 Joey Heister
 
-- 🌱 I’m currently learning **PHP, Laravel and learning JavaScript and NodeJS**
+> “Code hard. Play Zelda harder.”
 
-- 📫 How to reach me on discord: JoeySalt
+Hey there 👋 I'm **Joey Heister**, a Software Developer from the Netherlands currently leveling up my skills in **Laravel**, **PHP**, and diving deep into **Python** and **CS50**.  
+Right now I’m sharpening my backend magic, experimenting with **music-driven web apps**, **game dev in Unity (C#)**, and exploring how AI will change the way we build the future.
 
-- ⚡ Fun fact **Im chill**
+---
 
+## ⚙️ What I Do
 
-<p align="left">
-</p>
+🧠 **Software Development Student** @ Rijn IJssel  
+💻 Building full-stack Laravel applications with Tailwind CSS  
+🎮 Creating dark, story-driven VR games in Unity  
+🎵 Designing music-based web platforms (streaming, rating & social features)  
+📦 Developing track-and-trace systems in plain PHP  
+🌱 Currently learning: **Python** & **Node.js (no frameworks, all raw skill)**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`PHP` • `JavaScript` • `C#` • `Python` • `SQL`  
+
+**Frameworks / Tools:**  
+`Laravel 11` • `Tailwind CSS` • `Jetstream` • `Breeze` • `Unity` • `MySQL`  
+
+**Currently Exploring:**  
+- Python deep dive  
+- Node.js + MySQL from scratch  
+- VR game logic with real-time consequences  
+- AI x code automation  
+
+---
+
+## 🎧 Vibes & Inspiration
+
+🗡️ *Legend of Zelda* is my creative fuel  
+🔥 *Naruto* & *Bleach* taught me to grind like a shinobi  
+🎵 *Ye*, *Tyler, The Creator*, *JPEGMAFIA*, *Joey Bada$$* — that’s my focus soundtrack  
+💬 “If it ain’t real, it ain’t me.”
+
+---
+
+## 🚀 Projects I’m Proud Of
+
+- 🎵 **Music Streaming App** — Laravel + Tailwind + file-based storage  
+- 🧩 **Meme Battle Royale** — Meme tournaments with voting brackets  
+- 🎮 **Math VR Game** — Dark warehouse thriller with real-time consequences  
+- 📦 **Track & Trace System** — Plain PHP app for package tracking  
+- 🧱 **IJzersterk Ondernemen** — Full role-based Laravel business platform  
+
+---
+
+## 📫 Reach Me
+
+📍 **Location:** The Netherlands  
+💼 **Portfolio:** (coming soon 👀)  
+🐙 **GitHub:** [github.com/JoeyHeister](https://github.com/JoeyHeister)
+
+---
+
+> “I don’t just write code — I create experiences that hit like a bass drop.”
+
+🌀 *Stay creative. Stay curious. Stay legendary.*
+
