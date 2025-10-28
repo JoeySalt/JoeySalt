@@ -44,10 +44,5 @@ I’m probably:
 
 ---
 
-## 💬 Final Thought
-
-> I’m not “there” yet — but I’m *getting* there.  
-> Every day’s another save point. 🗡️  
-
 📍 Netherlands  
 🐙 [github.com/JoeySalt](https://github.com/JoeyHeister)
