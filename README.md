@@ -9,7 +9,7 @@ Right now, I’m leveling up my skills in **Laravel**, **Python**, and slowly ge
 
 ## 🧠 What I’m Focused On
 
-- 🧩 Learning **Laravel 11** inside and out  
+- 🧩 Learning **Laravel 12** inside and out  
 - 🎨 Using **Tailwind CSS** to make things look way better than default HTML  
 - 🐍 Doing a **deep dive into Python** (thanks to CS50 and my own chaos)  
 - 💾 Understanding how databases actually work instead of just copy-pasting migrations  
