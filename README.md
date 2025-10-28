@@ -24,7 +24,7 @@ Right now, I’m leveling up my skills in **Laravel**, **Python**, and slowly ge
 `PHP` • `Python` 
 
 **Frameworks & Tools:**  
-`Laravel` • `Tailwind CSS` • `Jetstream` • `Unity`
+`Laravel` • `Tailwind CSS` • `Unity`
 
 **Learning Goals:**  
 - Get solid at **Python fundamentals**  
