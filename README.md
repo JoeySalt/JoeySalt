@@ -1,67 +1,53 @@
-# 👑 Joey Heister
+# 👋 Hey, I’m Joey Heister
 
-> “Code hard. Play Zelda harder.”
+> “Currently figuring out to understand concepts”
 
-Hey there 👋 I'm **Joey Heister**, a Software Developer from the Netherlands currently leveling up my skills in **Laravel**, **PHP**, and diving deep into **Python** and **CS50**.  
-Right now I’m sharpening my backend magic, experimenting with **music-driven web apps**, **game dev in Unity (C#)**, and exploring how AI will change the way we build the future.
-
----
-
-## ⚙️ What I Do
-
-🧠 **Software Development Student** @ Rijn IJssel  
-💻 Building full-stack Laravel applications with Tailwind CSS  
-🎮 Creating dark, story-driven VR games in Unity  
-🎵 Designing music-based web platforms (streaming, rating & social features)  
-📦 Developing track-and-trace systems in plain PHP  
-🌱 Currently learning: **Python** & **Node.js (no frameworks, all raw skill)**  
+I’m a **Software Development student** at Rijn IJssel, deep in the trenches learning how to actually make tech *do what I want*.  
+Right now, I’m leveling up my skills in **Laravel**, **Python**, and slowly getting pulled into the world of **backend logic** and **clean architecture** (trying to make sense of all those buzzwords 😅).
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I’m Focused On
+
+- 🧩 Learning **Laravel 11** inside and out  
+- 🎨 Using **Tailwind CSS** to make things look way better than default HTML  
+- 🐍 Doing a **deep dive into Python** (thanks to CS50 and my own chaos)  
+- 💾 Understanding how databases actually work instead of just copy-pasting migrations  
+- 🧰 Slowly getting comfortable with backend logic
+- 💭 Thinking about the future of software when AI writes most of the code (👀)
+
+---
+
+## ⚙️ My Current Tech Stack
 
 **Languages:**  
-`PHP` • `JavaScript` • `C#` • `Python` • `SQL`  
+`PHP` • `Python` 
 
-**Frameworks / Tools:**  
-`Laravel 11` • `Tailwind CSS` • `Jetstream` • `Breeze` • `Unity` • `MySQL`  
+**Frameworks & Tools:**  
+`Laravel` • `Tailwind CSS` • `Jetstream` • `Unity`
 
-**Currently Exploring:**  
-- Python deep dive  
-- Node.js + MySQL from scratch  
-- VR game logic with real-time consequences  
-- AI x code automation  
-
----
-
-## 🎧 Vibes & Inspiration
-
-🗡️ *Legend of Zelda* is my creative fuel  
-🔥 *Naruto* & *Bleach* taught me to grind like a shinobi  
-🎵 *Ye*, *Tyler, The Creator*, *JPEGMAFIA*, *Joey Bada$$* — that’s my focus soundtrack  
-💬 “If it ain’t real, it ain’t me.”
+**Learning Goals:**  
+- Get solid at **Python fundamentals**  
+- Write cleaner, smarter **Laravel apps**  
+- Stop procrastinating on side projects  
+- Maybe finish one personal project before starting three more 🙃  
 
 ---
 
-## 🚀 Projects I’m Proud Of
+## 🎧 When I’m Not Coding
 
-- 🎵 **Music Streaming App** — Laravel + Tailwind + file-based storage  
-- 🧩 **Meme Battle Royale** — Meme tournaments with voting brackets  
-- 🎮 **Math VR Game** — Dark warehouse thriller with real-time consequences  
-- 📦 **Track & Trace System** — Plain PHP app for package tracking  
-- 🧱 **IJzersterk Ondernemen** — Full role-based Laravel business platform  
-
----
-
-## 📫 Reach Me
-
-📍 **Location:** The Netherlands  
-💼 **Portfolio:** (coming soon 👀)  
-🐙 **GitHub:** [github.com/JoeyHeister](https://github.com/JoeyHeister)
+I’m probably:  
+- Replaying *Twilight Princess* for the 10th time  
+- Watching *Anime* or *Cartoons*
+- Listening to **Kanye West**, **JPEGMAFIA** or **Jazz/Zelda** soundtracks if i got to focus 😉
+- Overthinking life like it’s a side quest  
 
 ---
 
-> “I don’t just write code — I create experiences that hit like a bass drop.”
+## 💬 Final Thought
 
-🌀 *Stay creative. Stay curious. Stay legendary.*
+> I’m not “there” yet — but I’m *getting* there.  
+> Every day’s another save point. 🗡️  
 
+📍 Netherlands  
+🐙 [github.com/JoeySalt](https://github.com/JoeyHeister)
