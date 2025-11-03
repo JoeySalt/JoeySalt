@@ -3,7 +3,7 @@
 > “Currently figuring out to understand concepts”
 
 I’m a **Software Development student** at Rijn IJssel, deep in the trenches learning how to actually make tech *do what I want*.  
-Right now, I’m leveling up my skills in **Laravel**, **Python**, and slowly getting pulled into the world of **backend logic** and **clean architecture** (trying to make sense of all those buzzwords 😅).
+Right now, I’m leveling up my skills in **Laravel**, **Python**, and slowly getting pulled into the world of **backend logic** and **clean architecture**.
 
 ---
 
