@@ -40,7 +40,6 @@ I’m probably:
 - Replaying *Any Zelda game* for the 100th time  
 - Watching *Anime* or *Cartoons*
 - Listening to **Kanye West**, **JPEGMAFIA** or **Jazz/Zelda** soundtracks if i got to focus 😉
-- Overthinking life like it’s a side quest  
 
 ---
 
