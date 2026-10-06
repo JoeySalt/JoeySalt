@@ -1,35 +1,36 @@
 # 👋 Hey, I’m Joey Heister
 
-> “Currently figuring out to understand concepts”
+> “Currently figuring out how to understand concepts”
 
-I’m a **Software Development student** at Rijn IJssel, deep in the trenches learning how to actually make tech *do what I want*.  
-Right now, I’m leveling up my skills in **Laravel**, **Python**, and slowly getting pulled into the world of **backend logic** and **clean architecture**.
+I’m a **Software Development student** at Rijn IJssel, currently doing my internship and learning how real-world web apps get built.  
+I started out with **Laravel** and **PHP**, and these days I’m mostly in **TypeScript** land, building full-stack apps with **Next.js** and figuring out how backends, databases and auth actually fit together.
 
 ---
 
 ## 🧠 What I’m Focused On
 
-- 🧩 Learning **Laravel 12** inside and out  
-- 🎨 Using **Tailwind CSS** to make things look way better than default HTML  
-- 🐍 Doing a **deep dive into Python** (thanks to CS50 and my own chaos)  
-- 💾 Understanding how databases actually work instead of just copy-pasting migrations  
-- 🧰 Slowly getting comfortable with backend logic
-- 💭 Thinking about the future of software when AI writes most of the code (👀)
+- ⚛️ Getting comfortable with **TypeScript**, **React** and **Next.js** (App Router)  
+- 📦 Working in a **Turborepo** monorepo with **pnpm**  
+- 🐘 Learning **PostgreSQL** with **Drizzle ORM**: schemas, migrations and seed data instead of copy-pasting  
+- 🔐 Understanding authentication and role-based access  
+- 🎨 Still using **Tailwind CSS** to make things look way better than default HTML  
+- 🐍 Keeping my **Python** going (thanks to CS50 and my own chaos)  
+- 💭 Thinking about what software development looks like when AI writes a lot of the code (👀)
 
 ---
 
 ## ⚙️ My Current Tech Stack
 
 **Languages:**  
-`PHP` • `Python` 
+`TypeScript` • `PHP` • `Python`
 
 **Frameworks & Tools:**  
-`Laravel` • `Tailwind CSS` • `Unity`
+`Next.js` • `React` • `Tailwind CSS` • `Laravel` • `Drizzle ORM` • `PostgreSQL` • `Turborepo` • `Unity`
 
 **Learning Goals:**  
+- Design things on paper before I start building them  
+- Write actual tests instead of “it works on my machine”  
 - Get solid at **Python fundamentals**  
-- Write cleaner, smarter **Laravel apps**  
-- Stop procrastinating on side projects  
 - Maybe finish one personal project before starting three more 🙃  
 
 ---
@@ -37,11 +38,12 @@ Right now, I’m leveling up my skills in **Laravel**, **Python**, and slowly ge
 ## 🎧 When I’m Not Coding
 
 I’m probably:  
-- Replaying *Any Zelda game* for the 100th time  
-- Watching *Anime* or *Cartoons*
-- Listening to **Kanye West**, **JPEGMAFIA** or **Jazz/Zelda** soundtracks if i got to focus 😉
+- Replaying *any Zelda game* for the 100th time  
+- Watching *anime* or *cartoons*  
+- Making beats as **SaltyBeats** on [SoundCloud](https://soundcloud.com/joey-salt)  
+- Listening to **Kanye West**, **JPEGMAFIA**, **Clipse**, **Danny Brown**, **Quadeca** or anything **Pharrell** touched, or jazz and Zelda soundtracks when I need to focus 😉
 
 ---
 
 📍 Netherlands  
-🐙 [github.com/JoeySalt](https://github.com/JoeyHeister)
+🐙 [github.com/JoeySalt](https://github.com/JoeySalt)
