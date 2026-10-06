@@ -40,7 +40,6 @@ I started out with **Laravel** and **PHP**, and these days I’m mostly in **Typ
 I’m probably:  
 - Replaying *any Zelda game* for the 100th time  
 - Watching *anime* or *cartoons*  
-- Making beats as **SaltyBeats** on [SoundCloud](https://soundcloud.com/joey-salt)  
 - Listening to **Kanye West**, **JPEGMAFIA**, **Clipse**, **Danny Brown**, **Quadeca** or anything **Pharrell** touched, or jazz and Zelda soundtracks when I need to focus 😉
 
 ---
